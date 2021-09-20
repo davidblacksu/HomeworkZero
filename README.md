@@ -1,5 +1,6 @@
 # HomeworkZero
 - 商業分析程式語言作業0
+- 台師大資工111 蘇煜詠 
 
 - Zen of Python
   - Simple is better than complex.
